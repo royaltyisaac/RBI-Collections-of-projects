@@ -18,8 +18,8 @@ Welcome to my projects portfolio! Below is a curated list of my projects categor
 - **Demo:** [Prometheus](http://45.76.141.44:9090)
 
 ### Project 3: n8n Workflow Automation
-- **Description:** Deployed n8n enterprise workflow automation tool self-hosted in the cloud.
-- **Technologies:** n8n, Docker, AWS
+- **Description:** Deployed an enterprise workflow automation tool self-hosted in the cloud.
+- **Technologies:**  Docker, AWS
 - **Demo:** [n8n Automation](http://95.179.201.94:5678)
 
 ---
